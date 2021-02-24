@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "vn.vnpt.thuctap",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "khaosat",
+    "packageName": "vn.vnpt.thuctap",
+    "packageFolder": "vn/vnpt/thuctap",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGY4NTRhZGEyMjZlNWZmMTYxOTIyZjI4NDk1YmJmMTQxYzQzOGFhMWIxYTBjMTVhOWVhZjg1MjE3NWJkMGExNzZhZWMwNTM2N2MwOTIzY2JiMWI0NTVlYzMzOTIzMDRiMTY0YTFjNWFjOGU5YjgwOTNlNGRhYjExMmJlM2M2OGU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1614136447721,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "vi"],
+    "blueprints": []
+  }
+}
